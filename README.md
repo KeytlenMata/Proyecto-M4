@@ -12,11 +12,11 @@ Este proyecto fue desarrollado por **5 integrantes del Grupo A** como parte de l
 - No se usan condicionales, bucles, funciones, listas ni estructuras avanzadas.
 
 ##  Integrantes
-Keytlen Mata
-Brayan Abrego
-Georgina Hanna
-Iván Rodríguez
-Edgar García
+- Keytlen Mata 
+- Brayan Abrego
+- Georgina Hanna
+- Iván Rodríguez
+- Edgar García
 
 ## Cómo ejecutar
 1. Clona este repositorio.
