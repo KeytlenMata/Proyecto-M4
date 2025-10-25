@@ -6,7 +6,6 @@ Programa colaborativo en Python que construye una **historia personalizada** a p
 Este proyecto fue desarrollado por **5 integrantes del Grupo A** como parte de la actividad del módulo 4.
 
 ###  Restricciones cumplidas:
-- Solo se usan **variables**.
 - Solo se usan **`input()`** para recibir datos.
 - Solo se usan **`print()`** para mostrar la historia final.
 - No se usan condicionales, bucles, funciones, listas ni estructuras avanzadas.
