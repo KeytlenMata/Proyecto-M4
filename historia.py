@@ -33,6 +33,14 @@ print("Solo una palabra aparece en el mensaje, escrita en mayúsculas: 'CORRE'."
 
 
 
+# Parte 3: continua la historia-Edgarcia09
+
+respuesta = input("\n¿Te atreves a mirar por la ventana? (sí o no): ")
+
+print(f"\nRespirando con cuidado, decides decir '{respuesta}'.")
+print("El teléfono vibra una vez más...")
+print("Un nuevo mensaje aparece en la pantalla:")
+print("'Ya es demasiado tarde, todo ha comenzado.'")
 
 
 
